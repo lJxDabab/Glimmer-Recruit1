@@ -1,0 +1,50 @@
+{
+    "author": "Glimmer",
+    "title": "加入微光",
+    "language": "zh-hans",
+    "plugins": [
+        "back-to-top-button",
+        "expandable-chapters",
+        "chapter-fold",
+        "code",
+        "splitter",
+        "-lunr",
+        "-search",
+        "insert-logo",
+        "tbfed-pagefooter",
+        "hide-element",
+        "-sharing",
+        "favicon",
+        "advanced-emoji",
+        "lightbox"
+    ],
+    "pluginsConfig": {
+        "lightbox": {
+            "includeJQuery": false,
+            "sameUuid": true,
+            "options": {
+                "resizeDuration": 500,
+                "wrapAround": false
+            }
+        },
+        "insert-logo": {
+            "url": "https://images.cnblogs.com/cnblogs_com/lizinuo/2181513/o_220724142738_Glimmer.png",
+            "style": "background: none; max-height: 64px; min-height: 64px"
+        },
+        "favicon": {
+            "shortcut": "icon/favicon.ico",
+            "bookmark": "icon/favicon.ico",
+            "appleTouch": "icon/apple-touch-icon.png"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy glimmer.space 2022",
+            "modify_label": "该文章修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "hide-element": {
+            "elements": [
+                ".gitbook-link"
+            ]
+        }
+    }
+}

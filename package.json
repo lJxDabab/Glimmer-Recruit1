@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "emojify": "^1.0.0",
+    "gitbook-plugin-lightbox": "^1.2.0"
+  }
+}

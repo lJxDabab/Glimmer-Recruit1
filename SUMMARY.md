@@ -1,0 +1,12 @@
+# Summary
+* [微光简介](README.md)
+## 日常基础
+* [日常基础]()
+    * [日常-01：了解你的计算机](File/日常-01：了解你的计算机.md)
+    * [日常-02：Markdown](File/日常-02：Markdown.md)
+    * [日常-03：上手Linux](File/日常-03：上手Linux.md)
+    * [日常-04：Git](File/日常-04：Git.md)
+    * [日常-05：网上冲浪](File/日常-05：网上冲浪.md)
+    * [日常-06：数据的表示](File/日常-06：数据的表示.md)
+    * [日常-07：IDE](File/日常-07：IDE.md)
+    * [日常-08：Python入门](File/日常-08：Python入门.md)
