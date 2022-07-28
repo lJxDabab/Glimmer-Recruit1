@@ -1,4 +1,5 @@
-<img src="File/image/Glimmer.png" alt="Glimmer.png (640×640) " style="zoom:80%;" />
+<img src="File/image/Glimmer.png" alt="Glimmer.png (640×640) " style="zoom: 33%;" />
+
 # Q&A
 ## Q1. 工作室是什么？平时都干啥？
 

@@ -1,4 +1,4 @@
-!![](image/daily.png)
+![](image/daily.png)
 
 # 日常-03：上手Linux
 
