@@ -1,4 +1,4 @@
-![Glimmer.png (640×640) ](File/image/Glimmer.png)
+<img src="File/image/Glimmer.png" alt="Glimmer.png (640×640) " style="zoom:80%;" />
 # Q&A
 ## Q1. 工作室是什么？平时都干啥？
 

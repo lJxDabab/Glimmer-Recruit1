@@ -1,4 +1,4 @@
-![](https://zlkqzimg-1310374208.cos.ap-chengdu.myqcloud.com/python_logo.png#crop=0&crop=0&crop=1&crop=1&id=V4k4x&originHeight=638&originWidth=1590&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
+![](image/daily.png)
 
 # 日常-08 Python入门
 

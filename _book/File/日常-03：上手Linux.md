@@ -1,4 +1,4 @@
-![](https://cdn.nlark.com/yuque/0/2021/png/22004288/1625470150335-assets/web-upload/3d261a31-d865-4530-97cf-510fc2ead3d3.png#id=QwufO&originHeight=638&originWidth=1590&originalType=binary&ratio=1&status=done&style=none)
+!![](image/daily.png)
 
 # 日常-03：上手Linux
 

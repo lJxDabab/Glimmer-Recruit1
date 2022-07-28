@@ -2,6 +2,7 @@
     "author": "Glimmer",
     "title": "加入微光",
     "language": "zh-hans",
+    "referrer": "no-referrer",
     "plugins": [
         "back-to-top-button",
         "expandable-chapters",
@@ -28,7 +29,7 @@
             }
         },
         "insert-logo": {
-            "url": "https://s2.loli.net/2022/07/28/Az8HGuKE4gami6n.png",
+            "url": "https://images.cnblogs.com/cnblogs_com/lizinuo/2181513/o_220724142738_Glimmer.png",
             "style": "background: none; max-height: 64px; min-height: 64px"
         },
         "favicon": {
