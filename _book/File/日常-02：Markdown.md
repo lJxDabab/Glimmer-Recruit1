@@ -9,17 +9,17 @@
 
 ## 题目描述
 
-- 选择一款喜欢的Markdown编辑器（推荐Typora或者用VSCode）
-- 学习基本的Markdown语法
-- 用Markdown写一篇语法总结，并发布在支持Markdown的博客网站上
-- 学习如何将Markdown文档导出为pdf文件
+- 选择一款喜欢❤️的Markdown编辑器（推荐Typora或者用VSCode）
+- 学习基本的Markdown语法📖
+- 用Markdown写一篇语法总结，并发布在支持Markdown的博客网站上📑
+- 学习如何将Markdown文档导出为pdf文件📃
 
 ---
 
 
 ## 需要掌握的知识点
 
-- Markdown语法以及编辑器使用方法
+- Markdown语法以及编辑器使用方法🔖
 
 ## Tips
 

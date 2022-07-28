@@ -9,11 +9,11 @@
 
 ## 题目描述
 
-- 1.安装Git
+- 🛠️1.安装Git
   - Windows平台[Git - Downloading Package (git-scm.com)](http://git-scm.com/download/win)
   - 在Linux系统中用对应的安装包工具安装
 
-- 2.学习使用git
+- 🏫2.学习使用git
   - 配置git的用户信息
   - 在本地创建自己的仓库
   - 了解暂存区、工作区、版本库是什么
@@ -21,7 +21,7 @@
   - 学会创建、切换、合并分支
   - 学会合并冲突
 
-- 3.使用远程仓库
+- 🗝️3.使用远程仓库
   - 注册[GitHub](https://github.com/)或[Gitee - 基于 Git 的代码托管和研发协作平台](https://gitee.com/)账号
   - 尝试clone一份别人的仓库
   - 将你自己的本地仓库添加上去
@@ -54,6 +54,7 @@
 ## Tips
 
 - 不会的地方多使用网络搜索
+- 也可以问群友
 
 ## 提交方式
 
