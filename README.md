@@ -1,4 +1,4 @@
-![o_220724142738_Glimmer.png (640×640) (cnblogs.com)](https://images.cnblogs.com/cnblogs_com/lizinuo/2181513/o_220724142738_Glimmer.png)
+![Glimmer.png (640×640) ](File/image/Glimmer.png)
 # Q&A
 ## Q1. 工作室是什么？平时都干啥？
 
