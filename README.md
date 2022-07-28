@@ -1,4 +1,4 @@
-<img src="File/image/Glimmer.png" alt="Glimmer.png (640×640) " style="zoom: 33%;" />
+![Glimmer-152.jpg](https://s2.loli.net/2022/07/28/ToHuPn64iQFOBV9.jpg)
 
 # Q&A
 ## Q1. 工作室是什么？平时都干啥？
