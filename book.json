@@ -29,7 +29,7 @@
             }
         },
         "insert-logo": {
-            "url": "http://81.68.97.124:814/Glimmer.png",
+            "url": "./File/image/Glimmer.png",
             "style": "background: none; max-height: 64px; min-height: 64px"
         },
         "favicon": {
