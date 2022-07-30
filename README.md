@@ -1,4 +1,4 @@
-![](File/image/join.png)
+<img src="File/image/join.png" style="zoom: 80%;" />
 
 > 🎊各位xdm，欢迎参加微光工作室2022秋季招新🎊
 >  
