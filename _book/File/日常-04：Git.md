@@ -42,10 +42,10 @@
 
 - Github本身不开源，也就是说你不能搭建自己的Github（像搭建wordpress那样）。不过可以搭一个类似的GitLab（并分享给你的~~儿子~~室友用）
 - 你可以使用GitLab管理后台
-![o_220702132550_4-1.png (1920×1080) (cnblogs.com)](https://images.cnblogs.com/cnblogs_com/lizinuo/2181513/o_220702132550_4-1.png)
+![](image/o_220702132550_4-1.png)
 - 搭建好Gitlab后尝试重复之前GitHub的任务
 
-![o_220702132557_4-2.png (1920×1080) (cnblogs.com)](https://images.cnblogs.com/cnblogs_com/lizinuo/2181513/o_220702132557_4-2.png)
+![主界面](image/o_220702132557_4-2.png)
 
 ## 需要掌握的知识点
 

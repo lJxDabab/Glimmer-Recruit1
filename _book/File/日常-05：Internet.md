@@ -4,7 +4,7 @@
 
 > `难度系数`：普通
 >
-> <img src="https://tvax1.sinaimg.cn/large/0073fhLzgy1h40mzqphzhj30j60j6765.jpg" alt="R-C" style="zoom:50%;" />
+> <img src="image/0073fhLzgy1h40mzqphzhj30j60j6765.jpg" alt="R-C" style="zoom:50%;" />
 
 ## 题目描述
 
@@ -20,7 +20,7 @@
 
   - 什么是网络性能。
 
-    <img src="https://i0.hdslb.com/bfs/article/1fbb55fba10522d66682380726972317ea41cc2a.jpg@942w_528h_progressive.webp" alt="1fbb55fba10522d66682380726972317ea41cc2a.jpg@942w_528h_progressive.webp (942×527) (hdslb.com)" style="zoom: 50%;" />
+    <img src="image/1fbb55fba10522d66682380726972317ea41cc2a.jpg@942w_528h_progressive.webp" alt="1fbb55fba10522d66682380726972317ea41cc2a.jpg@942w_528h_progressive.webp (942×527) (hdslb.com)" style="zoom: 50%;" />
 
     为什么会有时延、拥塞、丢包😱。
 
