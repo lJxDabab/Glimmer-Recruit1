@@ -66,7 +66,7 @@ print(a + b)     # 本例是把a和b加起来一起打印
 - 交互式最大的好处在于：当你的脚本处理比较复杂、持续时间较长时，比如脚本先对某个大文件执行时间长达一个小时的修改，然后进行保存。在以脚本方式运行时，如果在 50 min 时脚本运行出现了 bug，脚本将结束运行，脚本运行的中间结果将全部丢失，你又得再等 50 min，并且之后很可能还会有 bug；而在 console 的方式下，你可以将整个脚本逐句或逐个子任务执行，保证不会丢失全部的中间结果，并根据执行结果实时调整之后的代码
 - jupyter notebook 是另一种交互式界面，它将代码与 Markdown 组合在一起，可以得到更加直观、优雅的体验：
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/21983553/1657972423048-db00d932-85d3-4ee4-adbc-29c5a94a872b.png#clientId=u682b6ce2-ecd2-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=823&id=ua6dd02ce&name=image.png&originHeight=823&originWidth=1010&originalType=binary&ratio=1&rotation=0&showTitle=false&size=69498&status=done&style=none&taskId=ud317fa04-39ce-40a7-8311-20c418d0b91&title=&width=1010)
+![image.png](image\D8-1.png)
 
 ### Python 是面向对象语言（OOP）
 
