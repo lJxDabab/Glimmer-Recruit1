@@ -1,4 +1,4 @@
-![](https://cdn.nlark.com/yuque/0/2021/png/21738773/1625662437423-575c4356-71f3-4a57-a4ff-b6cea317655e.png#id=BcGYe&originHeight=300&originWidth=748&originalType=binary&ratio=1&status=done&style=none#crop=0&crop=0&crop=1&crop=1&id=LE1GJ&originHeight=300&originWidth=748&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
+![](image/ml.png)
 
 # 机器学习方向-05：BERT（面试直通车）
 
@@ -11,7 +11,6 @@
 > 如果是有很好的深度学习基础的同学， 还未接触过Transformer和BERT，我们建议阅读：
 > Transformer：[https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 > BERT:[https://arxiv.org/pdf/1810.04805.pdf](https://arxiv.org/pdf/1810.04805.pdf)
-
 
 ## 前置知识
 
@@ -40,12 +39,14 @@
 ## 本题提交方式
 
 > 收件邮箱：glimmer401[@outlook.com ](/outlook.com ) 
-主题格式：学号-姓名-考核-机器学习-05
-主题示例：2020091202014-张三-考核-机器学习-05
+>
+> 主题格式：学号-姓名-考核-机器学习-05
+>
+> 主题示例：2020091202014-张三-考核-机器学习-05
 
 
 ## 出题者联系方式
 
-QQ：1227609248
-
-邮箱：[1227609248@qq.com](1227609248@qq.com)
+>QQ：1227609248
+>
+>邮箱：[1227609248@qq.com](1227609248@qq.com)

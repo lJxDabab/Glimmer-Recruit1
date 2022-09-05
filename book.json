@@ -3,6 +3,11 @@
     "title": "加入微光",
     "language": "zh-hans",
     "referrer": "no-referrer",
+    "links": {
+        "sidebar": {
+            "微光工作室": "https://glimmer.space"
+        }
+    },
     "plugins": [
         "back-to-top-button",
         "expandable-chapters",
@@ -17,7 +22,9 @@
         "-sharing",
         "favicon",
         "advanced-emoji",
-        "lightbox"
+        "lightbox",
+        "katex",
+        "page-toc-button"
     ],
     "pluginsConfig": {
         "lightbox": {
@@ -46,6 +53,10 @@
             "elements": [
                 ".gitbook-link"
             ]
+        },
+        "page-toc-button": {
+            "maxTocDepth": 2,
+            "minTocSize": 1
         }
     }
 }
