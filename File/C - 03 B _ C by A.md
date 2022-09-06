@@ -82,7 +82,8 @@ YEWPO终于明白上述代码的意思，在暗示下，YEWPO找到tk_sky曾经�
 ### Task 3
 
 心有不甘的YEWPO找到了你，希望你能想办法破解密码以破解算法的终极奥秘！
-获得程序方式：
+获得程序方式：（<font color=red>***Ubuntu20.04及其以上版本，x64处理器***</font>）（当然其他系统环境也有方法做，但不能运行该程序）
+
 ```shell
 linux > wget https://github.com/YEWPO/secret/raw/main/secret
 ```
