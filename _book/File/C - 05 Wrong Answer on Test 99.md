@@ -72,11 +72,14 @@ receive program file success!
 - 如何在进程中加载其他进程
 - 如何获取其他进程的输出流或者是错误流。
 - 如何检查测评提交的代码
-**tips**
 
+
+**tips**
 - 设立状态TAG？
 - fork/execve
 - `I/O`重定向
+
+
 **client example 1**
 
 ```shell
@@ -160,4 +163,6 @@ Test finished!
 > QQ：2398696309
 > 
 > 邮箱：2398696309@qq.com  
+
+
 

@@ -19,7 +19,7 @@
 	- [C - 02 数据结构基础](File/C - 02 数据结构基础.md)
 	- [C - 03 B * C by A](File/C - 03 B _ C by A.md)
 	
-	- [C - 04 cache && hardware](File/C - 04 cache && hardware.md)
+	- [C - 04 cache && hardware](File/C - 04 cache && hardware_2.md)
 	- [C - 05 Wrong Answer on Test 99](File/C - 05 Wrong Answer on Test 99.md)
 
 - [前端](File/前端-00_  简介.md)
